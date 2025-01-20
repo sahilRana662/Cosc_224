@@ -16,11 +16,12 @@ Parrots
 Dogs
 Cats
 Dinosaurs
+
 3. Sahil:
-
-
-
-
+Dolphin
+Tiger
+Dog
+Elephant
 
 4.Hanz:
 Dogs 
